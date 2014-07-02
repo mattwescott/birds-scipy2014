@@ -16,8 +16,8 @@ Email me at mattwescott@gmail.com with questions or comments
 5. **Build environment**
 
   ###### Easy Method
-  Install [Anaconda](http://continuum.io/downloads)
-
+  Install [Anaconda](https://store.continuum.io/cshop/anaconda/) for Python2.7 or Python3.4
+  
   ###### Alternative Method
   Set up an environment with [these packages](requirements.txt)
 
