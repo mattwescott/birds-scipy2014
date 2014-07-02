@@ -23,7 +23,7 @@ Email me at mattwescott@gmail.com with questions or comments
 
 6. Edit paths to data in [config.py](config.py)
 
-7. Run check_env.py to make sure you are ready
+7. Run [check_env.py](check_env.py) to make sure you are ready
 
   `python birds-scipy2014/check_env.py`
 
