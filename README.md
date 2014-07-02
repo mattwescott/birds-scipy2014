@@ -1,5 +1,4 @@
 ### Tutorial Setup
-Email me at mattwescott@gmail.com with questions or comments
 
 1. **Clone this repository**
 
