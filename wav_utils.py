@@ -76,6 +76,10 @@ def plot_spectrogram(freqs, X, syllable_splits=None, low_cutoff_khz=0.5, high_cu
 
 def view_clip(clipname):
     plot_spectrogram(*compute_spectrogram(data.get_wav_array(clipname)))
+    html = ""
     wav_player_html = wavPlayer(clipname).data
-    call_html = data.calls_in_clip(clipname).iloc[:,[2,4]].to_html()
-    return HTML(wav_player_html + call_html)
+    html += wav_player_html
+    if not data.is_test(clipname):
+        call_html = data.calls_in_clip(clipname).iloc[:,[2,4]].to_html()
+        html += call_html
+    return HTML(html)

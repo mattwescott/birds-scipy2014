@@ -28,3 +28,13 @@ Email me at mattwescott@gmail.com with questions or comments
   `python birds-scipy2014/check_env.py`
 
 8. See you in Austin!
+
+### Literature
+
+Not required or necessary for the tutorial, but these may be of interest.
+
+1. My teammate Dima's [reflections on the competition](http://www.kaggle.com/c/multilabel-bird-species-classification-nips2013/forums/t/6383/reflections/35139#post35139)
+2. [Architectural inspiration](http://sis.univ-tln.fr/~odufour/fichiers/DufourICMLWshp_v6.pdf) from Dufour and friends
+3. [Learning Decision Trees using AUROC](http://users.dsic.upv.es/grupos/elp/cferri/105.pdf)
+4. [MFCC generation code](https://github.com/jameslyons/python_speech_features) which Dima adapted
+5. [First place model](http://www.kaggle.com/c/multilabel-bird-species-classification-nips2013/forums/t/6383/reflections/35504#post35504)
