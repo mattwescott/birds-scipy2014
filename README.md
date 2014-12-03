@@ -1,3 +1,7 @@
+### Tutorial Abstract
+
+This tutorial is a hands-on intro to competing on Kaggle and classifying bird calls. We recreate my team's 2nd place model from a bird-classification contest. We’ll explore the data in an IPython web notebook, and discuss how to approach the learning problem. Then we'll implement one of those approaches using Pandas and Scikit-Learn. At the end, we’ll submit our predictions to Kaggle and see how we did.
+
 ### Supporting Materials
 
 ##### Static IPython Notebooks
