@@ -1,10 +1,14 @@
-### Tutorial Abstract
+### Introduction
 
-This tutorial is a hands-on intro to competing on Kaggle and classifying bird calls. We recreate my team's 2nd place model from a bird-classification contest. We’ll explore the data in an IPython web notebook, and discuss how to approach the learning problem. Then we'll implement one of those approaches using Pandas and Scikit-Learn. At the end, we’ll submit our predictions to Kaggle and see how we did.
+This tutorial is a hands-on exploration of bird call classification. We use IPython notebooks, pandas and scikit-learn.
+
+1. Explore the data from a [Kaggle competition]((http://www.kaggle.com/c/multilabel-bird-species-classification-nips2013))
+2. Recreate a slightly simplified version of my team's 2nd place model
+3. Take a shot at improving it by classifying calls independently
 
 ### Supporting Materials
 
-##### Static IPython Notebooks
+##### Preview Static IPython Notebooks
 
 1. [Explore the data](http://nbviewer.ipython.org/github/mattwescott/birds-scipy2014/blob/master/ExploreData.ipynb)
 2. [Build a model](http://nbviewer.ipython.org/github/mattwescott/birds-scipy2014/blob/master/CrowdsourcedCV.ipynb)
@@ -15,7 +19,7 @@ This tutorial is a hands-on intro to competing on Kaggle and classifying bird ca
 ##### Tutorial Video
 [Be warned that this style doesn't adapt well to video](https://www.youtube.com/watch?v=-Rl9hviT5qw&feature=youtu.be)
 
-##### Other links
+##### Other Links
 
 * [Competition webpage](http://www.kaggle.com/c/multilabel-bird-species-classification-nips2013)
 * [Our 2nd place model](https://github.com/mattwescott/bird-recognition)
