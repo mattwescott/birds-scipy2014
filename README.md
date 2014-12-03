@@ -1,4 +1,25 @@
-### Tutorial Setup
+### Supporting Materials
+
+##### Static IPython Notebooks
+
+1. [Explore the data](http://nbviewer.ipython.org/github/mattwescott/birds-scipy2014/blob/master/ExploreData.ipynb)
+2. [Build a model](http://nbviewer.ipython.org/github/mattwescott/birds-scipy2014/blob/master/CrowdsourcedCV.ipynb)
+3. [Optimize a single call](http://nbviewer.ipython.org/github/mattwescott/birds-scipy2014/blob/master/SingleLabelModel.ipynb)
+4. [Generate a Kaggle submission](http://nbviewer.ipython.org/github/mattwescott/birds-scipy2014/blob/master/SingleLabelKaggleSubmission.ipynb)
+5. [Blend with other submissions](http://nbviewer.ipython.org/github/mattwescott/birds-scipy2014/blob/master/BlendSubmissions.ipynb)
+
+##### Tutorial Video
+[Be warned that this style doesn't adapt well to video](https://www.youtube.com/watch?v=-Rl9hviT5qw&feature=youtu.be)
+
+##### Literature
+
+1. My teammate Dima's [reflections on the competition](http://www.kaggle.com/c/multilabel-bird-species-classification-nips2013/forums/t/6383/reflections/35139#post35139)
+2. [Architectural inspiration](http://sis.univ-tln.fr/~odufour/fichiers/DufourICMLWshp_v6.pdf) from Dufour and friends
+3. [Learning Decision Trees using AUROC](http://users.dsic.upv.es/grupos/elp/cferri/105.pdf)
+4. [MFCC generation code](https://github.com/jameslyons/python_speech_features) which Dima adapted
+5. [First place model](http://www.kaggle.com/c/multilabel-bird-species-classification-nips2013/forums/t/6383/reflections/35504#post35504)
+
+### Setup Tutorial Environment
 
 1. **Clone this repository**
 
@@ -27,13 +48,3 @@
   `python birds-scipy2014/check_env.py`
 
 8. See you in Austin!
-
-### Literature
-
-Not required or necessary for the tutorial, but these may be of interest.
-
-1. My teammate Dima's [reflections on the competition](http://www.kaggle.com/c/multilabel-bird-species-classification-nips2013/forums/t/6383/reflections/35139#post35139)
-2. [Architectural inspiration](http://sis.univ-tln.fr/~odufour/fichiers/DufourICMLWshp_v6.pdf) from Dufour and friends
-3. [Learning Decision Trees using AUROC](http://users.dsic.upv.es/grupos/elp/cferri/105.pdf)
-4. [MFCC generation code](https://github.com/jameslyons/python_speech_features) which Dima adapted
-5. [First place model](http://www.kaggle.com/c/multilabel-bird-species-classification-nips2013/forums/t/6383/reflections/35504#post35504)
