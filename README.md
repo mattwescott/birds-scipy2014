@@ -16,9 +16,6 @@ This tutorial is a hands-on exploration of bird call classification. We use IPyt
 4. [Generate a Kaggle submission](http://nbviewer.ipython.org/github/mattwescott/birds-scipy2014/blob/master/SingleLabelKaggleSubmission.ipynb)
 5. [Blend with other submissions](http://nbviewer.ipython.org/github/mattwescott/birds-scipy2014/blob/master/BlendSubmissions.ipynb)
 
-##### Tutorial Video
-[Be warned that this style doesn't adapt well to video](https://www.youtube.com/watch?v=-Rl9hviT5qw&feature=youtu.be)
-
 ##### Other Links
 
 * [Competition webpage](http://www.kaggle.com/c/multilabel-bird-species-classification-nips2013)
